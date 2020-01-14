@@ -1,6 +1,6 @@
 {
-  "name": "helloworld",
-  "displayName": "HelloCordova",
+  "name": "Test",
+  "displayName": "MobileAppDevelopment",
   "version": "1.0.0",
   "description": "A sample Apache Cordova application that responds to the deviceready event.",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "keywords": [
     "ecosystem:cordova"
   ],
-  "author": "Apache Cordova Team",
+  "author": "Cory",
   "license": "Apache-2.0",
   "dependencies": {
     "cordova-android": "^8.1.0",
